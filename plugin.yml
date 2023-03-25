@@ -5,5 +5,5 @@ src-namespace-prefix: LobbySystem
 version: 1.0.0-beta
 api: [ 4.0.0, 5.0.0 ]
 
-description: Follow me on youtube (youtube.com/@edolegends)
-author: EdoLegends (YouTube)
+description: A higly customizable LobbySystem for everyone! (easy to use)
+author: EdoLegendsPM

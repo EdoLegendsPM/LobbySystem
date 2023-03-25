@@ -39,7 +39,7 @@ class MainClass extends PluginBase
             new BBreakEvent($this), new BPlaceEvent($this),
             new DamageEvent($this), new DropItemEvent($this),
             new JoinEvent($this), new MoveEvent($this),
-            new QuitEvent($this), new InteractEvent($this)
+            new QuitEvent($this), new InteractEvent($this), new ITransactionEvent($this)
         ];
 
         foreach ($events as $event) {
