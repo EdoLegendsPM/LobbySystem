@@ -1,22 +1,25 @@
 # LobbySystem
 A highly customizable plugin to add a lobbysystem to your bedrock server!
+
 (State 2023/3: THIS IS JUST A BETA, PLEASE CREATE A ISSUE OR WROTE ME ON DISCORD (kurumi#6017) WHAT FEATURES I SHOULD ADD NEXT - FINAL RELEASE IS PLANED ON 15. APRIL)
+
 (Stand 2023/3: AKTUELL IST DAS NUR EINE BETA, ERSTELLE EIN ISSUES ODER SCHREIB MIR AUF DISCORD (kurumi#6017) WAS ICH ALS NÄCHSTES HINZUFÜGEN SOLL - STABLE RELEASE IST AM 15. APRIL GEPLANT)
+
 
 ## Features
 
-- Everything is customizable (very simple).
+- Everything is customizable (very simple)
 - TeleportUI (customizable)
 - PlayerHider (customizable Items and Texts)
-- GadgetUI with some gadgets from us (State 2023/3: Jetpack)(customizable)
+- GadgetUI with some gadgets from us (customizable)
 
 
 ## How to setup?
 
-- Put the plugin in your plugins folder.
-- Start and then stop the server.
-- Edit the config.yml to suit your needs.
-- Restart and enjoy.
+- Put the plugin in your plugins folder
+- Start and then stop the server
+- Edit the config.yml to suit your needs
+- Restart and enjoy
 
 
 ## FAQ
